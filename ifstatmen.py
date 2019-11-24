@@ -45,9 +45,10 @@ else:
 	print ('X is underfined')
 
 
-print(''I told that"I don't like it"'')
+print("I told that I don't like it")
 
-words = ['cat', 'window', 'degenestrate']
+
+words = ['cat', 'windows', 'degenestrate']
 for w in words:
 	print(w, len(w))
 
@@ -58,13 +59,3 @@ for f in fruits:
 
 for i in range(5):
 	print(i)
-
-for x in range(0,10)
-	print(x)
-
-
-a =  ['1','2,'']
-
-
-
-https://github.com/brainseeddeveloper/PythonHybridClass
